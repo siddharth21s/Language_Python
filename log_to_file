@@ -1,0 +1,6 @@
+DEBUG:root:yoo1
+ERROR:root:yoo2
+CRITICAL:root:yoo3
+DEBUG:root:yoo1
+ERROR:root:yoo2
+CRITICAL:root:yoo3
